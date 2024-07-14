@@ -1,5 +1,4 @@
-## PROYECTO ![image](https://github.com/user-attachments/assets/a8c9fdf4-0467-4f99-9d80-7a1e45281ed4)
- "Data Insights: ETL y Visualización Impactante en Tableau/Power BI"
+## PROYECTO ![image](https://github.com/user-attachments/assets/2dcc1aaa-f7b1-4ef7-9171-2e901e5d0c87) "Data Insights: ETL y Visualización Impactante en Tableau/Power BI"
 La cadena Hotelera 'Meliá Hotels International' ha notado un aumento en el número de cancelaciones de reservas en los últimos meses y necesita comprender las causas y patrones detrás de estas cancelaciones para tomar medidas correctivas.
 
 ## Cliente
