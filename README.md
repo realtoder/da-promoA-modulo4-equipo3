@@ -7,7 +7,7 @@ La cadena Hotelera 'Meliá Hotels International' ha notado un aumento en el núm
 ## OBJETIVO
 El objetivo es llevar a cabo un análisis exhaustivo de las cancelaciones de reservas y crear visualizaciones impactantes para que la gerencia pueda identificar áreas de mejora y tomar decisiones informadas para reducir la tasa de cancelación.
 
-## FASES DEL PROYECTO
+![image](https://github.com/user-attachments/assets/590b915d-b6ab-43c6-95c7-84ce2d4f2cb3) ## FASES DEL PROYECTO
   Fase 1 - Análisis exploratorio de los datos (EDA)
   Realizar un análisis exploratorio detallado del conjunto de datos para comprender sus características y familiarizarnos con la información disponible.
   
